@@ -9,10 +9,10 @@ Features
 
   Explicit Euler time stepping
 
-  Laplacian or iterative solver for pressure Poisson equation
+  Iterative solver for pressure Poisson equation
 
   Dirichlet and Neumann boundary conditions
 
 
-  This code is a direct implementation of the numerical solver presented in:
+  This code is a written using the following as a guide:
 **"A Guide to Writing Your First CFD Solver"** by **Dr. Mark Owkes**
