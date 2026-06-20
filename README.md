@@ -16,3 +16,8 @@ Features
 
   This code is a written using the following as a guide:
 **"A Guide to Writing Your First CFD Solver"** by **Dr. Mark Owkes**
+
+Results
+
+<img width="810" height="741" alt="image" src="https://github.com/user-attachments/assets/c6a60e81-2ffe-4969-87df-77db088b97f4" />
+
